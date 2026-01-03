@@ -1,4 +1,4 @@
-# 🎲 diceware-wordlist-bg
+https://github.com/whatwg# 🎲 diceware-wordlist-bg
 
 A Bulgarian **Diceware wordlist** for passphrase generation.
 
