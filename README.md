@@ -33,5 +33,5 @@ Play with it, generate your own Diceware passphrases, or tweak it to your liking
 ## 🙌 Let’s make computers fun again!
 
 Enjoy!
-
+404bb171346447e8d09433386b2cb0055f60da77
 
